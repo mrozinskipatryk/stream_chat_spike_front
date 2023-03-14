@@ -4,6 +4,7 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 import NavBar from "./NavBar";
 import Signin from "./Signin";
 import Profile from "./Profile";
+import Chat from "./Chat";
 
 import "./App.scss";
 
